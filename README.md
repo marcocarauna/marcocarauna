@@ -1,4 +1,3 @@
-## Hi there 👋
 # Olá, eu sou o Marco Aurélio Carauna 
 Estudante de Desenvolvimento de Sistemas
 - Focado em Python, HTML e CSS
