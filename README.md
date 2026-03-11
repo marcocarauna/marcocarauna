@@ -6,7 +6,7 @@ Estudante de Desenvolvimento de Sistemas
 - Contato: carauna3@gmail.com
 <!--
 **marcocarauna/marcocarauna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Tecnologias que estudo   
+## Tecnologias que estudo   
 <div style="display: inline_block"><br> 
 <img align="center" alt="Python" height="40" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
