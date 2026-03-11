@@ -1,10 +1,9 @@
-# Olá, eu sou o Marco Aurélio Carauna 
+## Olá, eu sou o Marco Aurélio Carauna 
 Estudante de Desenvolvimento de Sistemas
 - Focado em Python, HTML e CSS
 - Preparando-se para o mercado de tecnologia
 - Contato: carauna3@gmail.com
-<!--
-**marcocarauna/marcocarauna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## Tecnologias que estudo   
 <div style="display: inline_block"><br> 
 <img align="center" alt="Python" height="40" width="40" 
